@@ -1,4 +1,5 @@
 # Decision modeling project - Report
+MSc in AI Decision Modelling class with Vincent Mousseau.
 
 Ayush Rai, Benoit Laurès and Paul Asquin
 
@@ -23,5 +24,5 @@ considering additional binary variables. (It should be noted that some of the br
 
 > 7. How to incorporate in the model the SRs' preferences for their area?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNjMzMjM4XX0=
+eyJoaXN0b3J5IjpbLTIwOTA4MDM3OTgsNzkwNjMzMjM4XX0=
 -->
